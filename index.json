@@ -1,33 +1,33 @@
 {
   "format": 1,
-  "serial": 1793624218,
+  "serial": 1793641248,
   "bundles": [
     {
       "id": "com.hugelton.bundle.kobotron",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "name": "Kobotron",
       "kind": "instrument",
-      "file": "bundles/kobotron-0.1.1.zip",
-      "size": 1584299,
-      "sha256": "f26ba54be368d950a82eb39b2caa50251ef1a04df2da2c28d96d2f458dfc38c6"
+      "file": "bundles/kobotron-0.1.2.zip",
+      "size": 1584499,
+      "sha256": "f3e53e8ead18a44a948929ce4a63a1ecabc6d9e903791e0cefc2f26ec2625382"
     },
     {
       "id": "com.hugelton.bundle.tellharm",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "name": "Tellharm",
       "kind": "instrument",
-      "file": "bundles/tellharm-0.1.1.zip",
-      "size": 209046,
-      "sha256": "545870f9dc722624a2e1a767a702a79f2e76832a277e60424306b3bc43271a54"
+      "file": "bundles/tellharm-0.1.2.zip",
+      "size": 209038,
+      "sha256": "4c0d03a9d9bb6ab82639186a67446bb39e464710632c018fb7f827c848ffb269"
     },
     {
       "id": "com.hugelton.bundle.kempelen",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "name": "Kempelen",
       "kind": "instrument",
-      "file": "bundles/kempelen-0.1.1.zip",
-      "size": 210784,
-      "sha256": "596910af46d6c8685bae855e0440f9413293677538528b6405e7026880ce8ef4"
+      "file": "bundles/kempelen-0.1.2.zip",
+      "size": 211499,
+      "sha256": "db1f270d6e000893aa94d2cfb404d0950637fe82fc3e842c75fa1a8dd5e24dd0"
     }
   ]
 }
