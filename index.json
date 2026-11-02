@@ -1,0 +1,33 @@
+{
+  "format": 1,
+  "serial": 1793582815,
+  "bundles": [
+    {
+      "id": "com.hugelton.bundle.kobotron",
+      "version": "0.1.0",
+      "name": "Kobotron",
+      "kind": "instrument",
+      "file": "bundles/kobotron-0.1.0.zip",
+      "size": 1584064,
+      "sha256": "40189b34594cd07550dfaa3fb2463191c60ff889eeab3b5f9ce4c624a9fedc75"
+    },
+    {
+      "id": "com.hugelton.bundle.tellharm",
+      "version": "0.1.0",
+      "name": "Tellharm",
+      "kind": "instrument",
+      "file": "bundles/tellharm-0.1.0.zip",
+      "size": 208950,
+      "sha256": "0f701602893d22452d561e0917ac300088707499ff1462a67873f6f8ed8c8ccd"
+    },
+    {
+      "id": "com.hugelton.bundle.kempelen",
+      "version": "0.1.0",
+      "name": "Kempelen",
+      "kind": "instrument",
+      "file": "bundles/kempelen-0.1.0.zip",
+      "size": 210745,
+      "sha256": "b9a3d92843d8734e3db7e4d26effe0662fd40a5c9ab2a49ea09c6fb5ff2dcf53"
+    }
+  ]
+}
