@@ -1,31 +1,31 @@
 {
   "format": 1,
-  "serial": 1794370923,
+  "serial": 1794625882,
   "bundles": [
     {
       "id": "com.hugelton.bundle.tellharm",
-      "version": "0.2.1",
+      "version": "0.2.2",
       "name": "Tellharm",
       "kind": "instrument",
-      "file": "bundles/tellharm-0.2.1.zip",
-      "size": 324224,
-      "sha256": "b62d843b6b10516ccaff2a2698fc3cd5482ef5474889ee93d982cd3e04a8f2ca",
+      "file": "bundles/tellharm-0.2.2.zip",
+      "size": 325383,
+      "sha256": "344fbac1ba82cf8038e25f24d4f16d0baae6c674d21c60c2388651a347f2dbb1",
       "thumb": {
-        "file": "thumbs/tellharm-0.2.1.png",
+        "file": "thumbs/tellharm-0.2.2.png",
         "size": 73807,
         "sha256": "318c6a6230e9e2ed30b6013cc09f3427f55a58d3e999c1682fc059fa54f4d77c"
       }
     },
     {
       "id": "com.hugelton.bundle.kempelen",
-      "version": "0.2.1",
+      "version": "0.2.2",
       "name": "Kempelen",
       "kind": "instrument",
-      "file": "bundles/kempelen-0.2.1.zip",
-      "size": 287702,
-      "sha256": "c1c3e03ea04b2a82750f692a4c2b407d2e620ea3ee66fb1d79f5b9c2a86e58d8",
+      "file": "bundles/kempelen-0.2.2.zip",
+      "size": 289120,
+      "sha256": "5a193df1a26fb0dd27d99e41ec72a70e8cd71571edc0811c64d511002cd76b93",
       "thumb": {
-        "file": "thumbs/kempelen-0.2.1.png",
+        "file": "thumbs/kempelen-0.2.2.png",
         "size": 46467,
         "sha256": "3adc7611694cbe976503251d931879e88f0042e7c8463a07cd5d33060276b362"
       }
