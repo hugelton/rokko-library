@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "serial": 1794625882,
+  "serial": 1794662958,
   "bundles": [
     {
       "id": "com.hugelton.bundle.tellharm",
@@ -28,6 +28,38 @@
         "file": "thumbs/kempelen-0.2.2.png",
         "size": 46467,
         "sha256": "3adc7611694cbe976503251d931879e88f0042e7c8463a07cd5d33060276b362"
+      }
+    },
+    {
+      "id": "com.hugelton.bundle.magna",
+      "version": "0.1.0",
+      "name": "Magna",
+      "kind": "instrument",
+      "file": "bundles/magna-0.1.0.zip",
+      "size": 338551,
+      "sha256": "3a5110f2890d059ece2e80ac57079e3293eb4f0bffbcc46663509a4fdf8d927c",
+      "thumb": {
+        "file": "thumbs/magna-0.1.0.png",
+        "size": 50593,
+        "sha256": "74d5810e56893ca1d4717d1773393aec3208c68d2f5561a06ec3403f090310ba"
+      }
+    },
+    {
+      "id": "com.hugelton.bundle.engines",
+      "version": "0.1.0",
+      "name": "Engines",
+      "kind": "instrument",
+      "file": "bundles/engines-0.1.0.zip",
+      "size": 190245,
+      "sha256": "444328c878f9853515207cbdd532c8591e0cf9ca18d92bd338a88796e379f0ba",
+      "summary": {
+        "en": "Six synth engines in one: analog, chip, three-oscillator, organ, noise and phase distortion",
+        "ja": "6 つのシンセ音源を 1 つに: アナログ、チップ、3 オシレーター、オルガン、ノイズ、位相歪み"
+      },
+      "thumb": {
+        "file": "thumbs/engines-0.1.0.png",
+        "size": 18808,
+        "sha256": "9a2dfcb4d2efdff2598f00ff2a26246a62f90f782b4964c4b28b51d55fd35dc6"
       }
     }
   ]
