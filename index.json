@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "serial": 1794878087,
+  "serial": 1794880813,
   "bundles": [
     {
       "id": "com.hugelton.bundle.tellharm",
@@ -64,36 +64,36 @@
     },
     {
       "id": "com.hugelton.bundle.gurdyklavier",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "name": "GurdyKlavier",
       "kind": "instrument",
-      "file": "bundles/gurdyklavier-0.1.0.zip",
-      "size": 96471,
-      "sha256": "12f14750684e2cca6c99d81942e7dfd25d04bda838e5a8319577663c87e26ea7",
+      "file": "bundles/gurdyklavier-0.1.1.zip",
+      "size": 107623,
+      "sha256": "6b8f630f98dac01f7aa3a19efdb424044fe078a21152a26fdceaa24507fbb846",
       "summary": {
         "en": "A wheel-bowed keyboard hurdy-gurdy: melody, drone and buzzing trompette",
         "ja": "鍵盤式ハーディガーディ: 旋律・ドローン・トロンペット"
       },
       "thumb": {
-        "file": "thumbs/gurdyklavier-0.1.0.png",
+        "file": "thumbs/gurdyklavier-0.1.1.png",
         "size": 45212,
         "sha256": "1e057c89f666eda569dabdc7f27a2490210952cc956021ce516d487a1975dc05"
       }
     },
     {
       "id": "com.hugelton.bundle.shomyo",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "name": "Shomyo",
       "kind": "instrument",
-      "file": "bundles/shomyo-0.1.0.zip",
-      "size": 39716,
-      "sha256": "af7a5a113c69e86818c36d98203c4fb8be19dcd5c431e77040060cd4b2ffe302",
+      "file": "bundles/shomyo-0.1.1.zip",
+      "size": 39035,
+      "sha256": "fed61d17a97950f784e08050b72daa6b307abc80e5c43bc3c606475d315e3667",
       "summary": {
         "en": "A choir of shomyo voices, with overtone (khoomei) singing, yuri and a room (prototype)",
         "ja": "声明の合唱: ホーミー、ユリ、残響つき（プロトタイプ）"
       },
       "thumb": {
-        "file": "thumbs/shomyo-0.1.0.png",
+        "file": "thumbs/shomyo-0.1.1.png",
         "size": 955,
         "sha256": "b9c16f8a53a7cd2c28f279d8cb436b7712aa900dfadd2c09c05822d40d34774f"
       }
