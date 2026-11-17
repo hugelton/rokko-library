@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "serial": 1794877496,
+  "serial": 1794878087,
   "bundles": [
     {
       "id": "com.hugelton.bundle.tellharm",
@@ -78,6 +78,24 @@
         "file": "thumbs/gurdyklavier-0.1.0.png",
         "size": 45212,
         "sha256": "1e057c89f666eda569dabdc7f27a2490210952cc956021ce516d487a1975dc05"
+      }
+    },
+    {
+      "id": "com.hugelton.bundle.shomyo",
+      "version": "0.1.0",
+      "name": "Shomyo",
+      "kind": "instrument",
+      "file": "bundles/shomyo-0.1.0.zip",
+      "size": 39716,
+      "sha256": "af7a5a113c69e86818c36d98203c4fb8be19dcd5c431e77040060cd4b2ffe302",
+      "summary": {
+        "en": "A choir of shomyo voices, with overtone (khoomei) singing, yuri and a room (prototype)",
+        "ja": "声明の合唱: ホーミー、ユリ、残響つき（プロトタイプ）"
+      },
+      "thumb": {
+        "file": "thumbs/shomyo-0.1.0.png",
+        "size": 955,
+        "sha256": "b9c16f8a53a7cd2c28f279d8cb436b7712aa900dfadd2c09c05822d40d34774f"
       }
     }
   ]
