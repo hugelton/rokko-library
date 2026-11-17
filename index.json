@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "serial": 1794893750,
+  "serial": 1794905860,
   "bundles": [
     {
       "id": "com.hugelton.bundle.tellharm",
@@ -10,6 +10,10 @@
       "file": "bundles/tellharm-0.2.2.zip",
       "size": 325383,
       "sha256": "344fbac1ba82cf8038e25f24d4f16d0baae6c674d21c60c2388651a347f2dbb1",
+      "summary": {
+        "en": "The 1906 Telharmonium, simplified",
+        "ja": "1906年のテルハーモニウム（簡略版）"
+      },
       "thumb": {
         "file": "thumbs/tellharm-0.2.2.png",
         "size": 73807,
@@ -24,6 +28,10 @@
       "file": "bundles/kempelen-0.2.2.zip",
       "size": 289120,
       "sha256": "5a193df1a26fb0dd27d99e41ec72a70e8cd71571edc0811c64d511002cd76b93",
+      "summary": {
+        "en": "Kempelen's 1791 speaking machine",
+        "ja": "ケンペレンの1791年の話す機械"
+      },
       "thumb": {
         "file": "thumbs/kempelen-0.2.2.png",
         "size": 46467,
@@ -38,6 +46,10 @@
       "file": "bundles/magna-0.1.0.zip",
       "size": 338551,
       "sha256": "3a5110f2890d059ece2e80ac57079e3293eb4f0bffbcc46663509a4fdf8d927c",
+      "summary": {
+        "en": "A reconstruction of the 1934 Magna Organ",
+        "ja": "1934年のマグナオルガンの再現"
+      },
       "thumb": {
         "file": "thumbs/magna-0.1.0.png",
         "size": 50593,
