@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "serial": 1794905860,
+  "serial": 1794906170,
   "bundles": [
     {
       "id": "com.hugelton.bundle.tellharm",
@@ -76,36 +76,36 @@
     },
     {
       "id": "com.hugelton.bundle.gurdyklavier",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "name": "GurdyKlavier",
       "kind": "instrument",
-      "file": "bundles/gurdyklavier-0.1.1.zip",
-      "size": 107623,
-      "sha256": "6b8f630f98dac01f7aa3a19efdb424044fe078a21152a26fdceaa24507fbb846",
+      "file": "bundles/gurdyklavier-0.1.2.zip",
+      "size": 38819,
+      "sha256": "6b18296ef32a80044180c9189f75bfa2a3f0e1231011438f0c30e67ac56fba78",
       "summary": {
         "en": "A wheel-bowed keyboard hurdy-gurdy: melody, drone and buzzing trompette",
         "ja": "鍵盤式ハーディガーディ: 旋律・ドローン・トロンペット"
       },
       "thumb": {
-        "file": "thumbs/gurdyklavier-0.1.1.png",
-        "size": 45212,
-        "sha256": "1e057c89f666eda569dabdc7f27a2490210952cc956021ce516d487a1975dc05"
+        "file": "thumbs/gurdyklavier-0.1.2.png",
+        "size": 16107,
+        "sha256": "1def68710804a06bb826ca391237a62e854566ae63cf3b75bf2055f2c2289aba"
       }
     },
     {
       "id": "com.hugelton.bundle.shomyo",
-      "version": "0.4.0",
+      "version": "0.6.0",
       "name": "Shomyo",
       "kind": "instrument",
-      "file": "bundles/shomyo-0.4.0.zip",
-      "size": 883558,
-      "sha256": "79f06ef78bff2ba04bdf78e9e77cacaa7fb01550f7dddac4395179592513788a",
+      "file": "bundles/shomyo-0.6.0.zip",
+      "size": 880945,
+      "sha256": "8e54bc4e51d63e10149cb269b6bc500ba2fc05cf46469a1513cb2d7cf2ed04e4",
       "summary": {
         "en": "A choir of shomyo voices: overtone (khoomei) singing, lyrics in kana, English or IPA, and a room (prototype)",
         "ja": "声明の合唱: ホーミー、ひらがな・英語・IPA の歌詞、残響つき（プロトタイプ）"
       },
       "thumb": {
-        "file": "thumbs/shomyo-0.4.0.png",
+        "file": "thumbs/shomyo-0.6.0.png",
         "size": 955,
         "sha256": "b9c16f8a53a7cd2c28f279d8cb436b7712aa900dfadd2c09c05822d40d34774f"
       }
