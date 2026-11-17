@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "serial": 1794662958,
+  "serial": 1794877496,
   "bundles": [
     {
       "id": "com.hugelton.bundle.tellharm",
@@ -60,6 +60,24 @@
         "file": "thumbs/engines-0.1.0.png",
         "size": 18808,
         "sha256": "9a2dfcb4d2efdff2598f00ff2a26246a62f90f782b4964c4b28b51d55fd35dc6"
+      }
+    },
+    {
+      "id": "com.hugelton.bundle.gurdyklavier",
+      "version": "0.1.0",
+      "name": "GurdyKlavier",
+      "kind": "instrument",
+      "file": "bundles/gurdyklavier-0.1.0.zip",
+      "size": 96471,
+      "sha256": "12f14750684e2cca6c99d81942e7dfd25d04bda838e5a8319577663c87e26ea7",
+      "summary": {
+        "en": "A wheel-bowed keyboard hurdy-gurdy: melody, drone and buzzing trompette",
+        "ja": "鍵盤式ハーディガーディ: 旋律・ドローン・トロンペット"
+      },
+      "thumb": {
+        "file": "thumbs/gurdyklavier-0.1.0.png",
+        "size": 45212,
+        "sha256": "1e057c89f666eda569dabdc7f27a2490210952cc956021ce516d487a1975dc05"
       }
     }
   ]
