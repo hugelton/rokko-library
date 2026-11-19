@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "serial": 1795101855,
+  "serial": 1795103623,
   "bundles": [
     {
       "id": "com.hugelton.bundle.tellharm",
@@ -94,18 +94,18 @@
     },
     {
       "id": "com.hugelton.bundle.shomyo",
-      "version": "0.6.1",
+      "version": "0.7.0",
       "name": "Shomyo",
       "kind": "instrument",
-      "file": "bundles/shomyo-0.6.1.zip",
-      "size": 881542,
-      "sha256": "e176b2c3df4bef5470c255c3733b9f4d6c15014a7c93bb939d68a464d72bee9d",
+      "file": "bundles/shomyo-0.7.0.zip",
+      "size": 881985,
+      "sha256": "2069fd3e4308a5c07a5d5b548aeb0df21687a321ac2e0e7dd42c798821dd8812",
       "summary": {
         "en": "A choir of shomyo voices: overtone (khoomei) singing, lyrics in kana, English or IPA, and a room (prototype)",
         "ja": "声明の合唱: ホーミー、ひらがな・英語・IPA の歌詞、残響つき（プロトタイプ）"
       },
       "thumb": {
-        "file": "thumbs/shomyo-0.6.1.png",
+        "file": "thumbs/shomyo-0.7.0.png",
         "size": 955,
         "sha256": "b9c16f8a53a7cd2c28f279d8cb436b7712aa900dfadd2c09c05822d40d34774f"
       }
